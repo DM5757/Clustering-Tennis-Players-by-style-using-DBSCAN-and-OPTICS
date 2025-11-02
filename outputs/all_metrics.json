@@ -1,0 +1,23 @@
+{
+  "dbscan": {
+    "silhouette": 0.4725977465117365,
+    "calinski_harabasz": 6.919031809141872,
+    "davies_bouldin": 0.6013246390849105,
+    "n_clusters": 2,
+    "n_noise": 8
+  },
+  "optics": {
+    "silhouette": 0.4786679981519409,
+    "calinski_harabasz": 12.214765345470116,
+    "davies_bouldin": 0.5936097692871399,
+    "n_clusters": 3,
+    "n_noise": 6
+  },
+  "hierarchical": {
+    "silhouette": 0.2669277957350281,
+    "calinski_harabasz": 11.839081754415895,
+    "davies_bouldin": 0.8992527947332508,
+    "n_clusters": 3,
+    "n_noise": 0
+  }
+}

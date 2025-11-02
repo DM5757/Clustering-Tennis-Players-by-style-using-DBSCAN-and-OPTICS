@@ -1,0 +1,15 @@
+player,handedness,dominant_surface,serve_speed_avg,ace_pct,double_fault_pct,first_serve_in_pct,first_serve_points_won_pct,break_points_saved_pct,avg_rally_length,win_ratio,height_cm
+Rafael Nadal,Left,Clay,180,0.12,0.04,0.68,0.73,0.68,12.5,0.84,185
+Novak Djokovic,Right,Hard,195,0.08,0.03,0.65,0.72,0.67,11.8,0.83,188
+Roger Federer,Right,Grass,205,0.15,0.05,0.62,0.77,0.71,9.2,0.82,185
+Daniil Medvedev,Right,Hard,200,0.11,0.04,0.64,0.74,0.70,10.5,0.78,198
+Alexander Zverev,Right,Hard,210,0.14,0.06,0.60,0.76,0.69,9.8,0.75,198
+Carlos Alcaraz,Right,Clay,195,0.10,0.05,0.66,0.73,0.68,11.2,0.77,183
+Stefanos Tsitsipas,Right,Clay,190,0.09,0.04,0.67,0.71,0.65,11.5,0.76,193
+Andrey Rublev,Right,Hard,200,0.12,0.04,0.63,0.75,0.72,10.2,0.74,188
+Jannik Sinner,Right,Hard,205,0.13,0.05,0.61,0.77,0.70,9.5,0.76,188
+Taylor Fritz,Right,Hard,210,0.16,0.07,0.58,0.78,0.71,8.9,0.73,196
+John Isner,Right,Hard,230,0.25,0.08,0.55,0.80,0.75,7.5,0.68,208
+Iga Swiatek,Right,Clay,145,0.08,0.03,0.70,0.68,0.65,13.2,0.85,176
+Marin Cilic,Right,Hard,215,0.18,0.06,0.57,0.79,0.73,8.2,0.71,198
+
